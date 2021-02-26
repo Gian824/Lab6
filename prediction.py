@@ -25,5 +25,4 @@ def my_prediction(id):
     str = [t_str, r_str, name_str]
     return str
     
-#    this is an example text for me to use and practice my typing speed onto. This is a very slow typing speed for me and I am not too sure why my typing can be any slower.
- 
+    # This file was coppied off of Tyler Balson's Lab 6 Directory
